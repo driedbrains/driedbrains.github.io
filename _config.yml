@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
-pages_list:
-  О блоге: '/about'
-  Архив записей: '/archive'
-  Лента: '/atom.xml'
+name: DriedBrains
+description: https://t.me/lifeonet pages
+
+
